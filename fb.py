@@ -17,11 +17,12 @@ os.system(['','color D'][os.name == 'nt'])
 print '''
                 SELAMAT DATANG
                      DI
-                JAWA CYBER TEAM
-                PEMBUAT MR.FUAD               
-      GITHUB https://github.com/11992288FZ
-             WHATSAPP 085876330812
-     FACEBOOK RECOVERY PASSWORD ATTACKER  
+                hackers joon
+                gamer's hand               
+      GITHUB https://github.com/aazboi
+             YouTube https://youtube.com/channel/UCkM9YkbNOCC1fK6fk51O-6A
+     FACEBOOK RECOVERY PASSWORD ATTACKER
+  
  _____              _                 _
 |  ___|_ _  ___ ___| |__   ___   ___ | | __
 | |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
